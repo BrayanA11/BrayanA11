@@ -3,13 +3,16 @@
 </div>
 Me especializo en:
 
-    Automatización de tareas repetitivas
+- Automatización de tareas repetitivas
 
-    Modelado de procesos físicos y electrónicos
+- Modelado de procesos físicos y electrónicos
 
-    Machine Learning básico aplicado a problemas reales
+- Machine Learning básico aplicado a problemas reales
 
-    Controladores y simulaciones en entornos virtuales
+- Controladores y simulaciones en entornos virtuales
+📫 Contacto
+
+   - 📧 Email: tunombre@email.com
 
 ## Sobre mi
 
