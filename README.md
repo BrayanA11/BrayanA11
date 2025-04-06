@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Brayan Aquino </a> 👋</h1>
 </div>
-## Me especializo en:
+Me especializo en: 
 
 - Automatización de tareas repetitivas
 
