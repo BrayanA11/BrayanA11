@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Brayan Aquino </a> 👋</h1>
+<h1 align="center">Brayan Aquino </a> 👋</h1>
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/BrayanA11)
