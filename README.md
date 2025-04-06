@@ -12,7 +12,7 @@ Me especializo en:
 - Controladores y simulaciones en entornos virtuales
 📫 Contacto
 
-   - 📧 Email: tunombre@email.com
+   - 📧 Email: brayanaquinot@gmail.com
 
 ## Sobre mi
 
