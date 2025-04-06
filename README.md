@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Brayan Aquino </a> 👋</h1>
 </div>
-Me especializo en:
+## Me especializo en:
 
 - Automatización de tareas repetitivas
 
@@ -10,9 +10,10 @@ Me especializo en:
 - Machine Learning básico aplicado a problemas reales
 
 - Controladores y simulaciones en entornos virtuales
-📫 Contacto
 
-   - 📧 Email: brayanaquinot@gmail.com
+## Contacto
+
+   📧 Email: brayanaquinot@gmail.com
 
 ## Sobre mi
 
