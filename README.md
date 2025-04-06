@@ -8,7 +8,7 @@
 
 - ⭐ Github Star ⭐ 
 - 📲 Desarrollador de sistemas embebidos
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
+- ✏️ Investigador y desarrollador de sistemas de IA
 <br>
 
 ## Proyectos y referencias
