@@ -13,7 +13,6 @@ Me especializo en:
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
 - 📲 Desarrollador de sistemas embebidos
 - ✏️ Investigador y desarrollador de sistemas de IA
 
